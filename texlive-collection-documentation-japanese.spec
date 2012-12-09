@@ -32,3 +32,12 @@ TeXLive collection-documentation-japanese package.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780246
+- Update to latest release.
+- Import texlive-collection-documentation-japanese
+- Import texlive-collection-documentation-japanese
+
